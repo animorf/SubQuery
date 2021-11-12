@@ -1,0 +1,67 @@
+{
+  "data": {
+    "accounts": {
+      "nodes": [
+        {
+          "id": "11227QXduNWhgXpNjnUWiyF4Yg4AbRRuvwGo4HfspWujPU6v",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "1205136-59",
+                "amount": "31000000000000"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1124RsfEgJEZvEq4HbtGFcpqoxnqSy79EjNZY9tzPct3AB6o",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "444722-123",
+                "amount": "150000000000"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1125WZi5D4btCk6a4HtZtmpKEjoQ472QVrk2KfGLBJgfkFBY",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "1205221-32",
+                "amount": "100000000000"
+              },
+              {
+                "id": "1205230-2",
+                "amount": "37753176000000000"
+              }
+            ]
+          }
+        },
+        {
+          "id": "112A3784ssUTCFQJvygzhCt4eiVkXft4RFixknBT3jsT8nb5",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "241591-235",
+                "amount": "1000000000000"
+              }
+            ]
+          }
+        },
+        {
+          "id": "116x7oVBcDjFo3bMeGdMYGwW8uS2ca7o4Wn7kQy65mkDwtd",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "744556-4",
+                "amount": "1000000000000"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
